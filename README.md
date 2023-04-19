@@ -1,1 +1,1 @@
-# -wordsmith-db
+# wordsmith-k8s
